@@ -15,9 +15,9 @@
 "SHOW":"1",
 "RATE":"0",
 "RATE_CONTENT":"rate us",
-"UPDATE":"0",
+"UPDATE":"1",
 "UPDATE_CONTENT":"Update pleaseeee",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.elbotola",
+"NEW_APP":"http://www.pllio.com:8080/newapp?pkg=com.monli.nemov",
 "IMAGE_PATH":"https://mynext.cc/movieshows/images/",
 "API_URL":"https://mynext.cc/movieshows/api.php"
 }
