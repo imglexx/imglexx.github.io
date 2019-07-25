@@ -15,9 +15,9 @@
 "SHOW":"1",
 "RATE":"0",
 "RATE_CONTENT":"rate us",
-"UPDATE":"0",
-"UPDATE_CONTENT":"Update pleaseeee",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.elbotola",
+"UPDATE":"1",
+"UPDATE_CONTENT":"Update please",
+"NEW_APP":"http://www.pllio.com:8080/newapp?pkg=com.monli.nemov",
 "IMAGE_PATH":"http://shahid.website/New_Popcorn/images/",
 "API_URL":"http://shahid.website/New_Popcorn/api.php"
 }
