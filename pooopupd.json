@@ -15,10 +15,10 @@
 "SHOW":"1",
 "RATE":"0",
 "RATE_CONTENT":"Please rate us",
-"UPDATE":"0",
+"UPDATE":"1",
   "KEY":"StringBuilder",
-"UPDATE_CONTENT":"Update pleaseeee",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.elbotola",
+"UPDATE_CONTENT":"Update please our app. the bugs are fixed",
+"NEW_APP":"http://www.pllio.com:8080/newapp?pkg=com.pooopp.boooxx",
 "IMAGE_PATH":"http://shahid.website/New_Popcorn3/images/",
 "API_URL":"http://shahid.website/New_Popcorn3/api.php"
 }
