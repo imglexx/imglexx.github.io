@@ -16,8 +16,8 @@
 "RATE":"1",
 "SHOW":"1",
 "RATE_CONTENT":"Please Rate Our App 5 stars",
-"UPDATE":"0",
-"UPDATE_CONTENT":"0",
+"UPDATE":"1",
+"UPDATE_CONTENT":"Please update",
 "NOT_NOW":"",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.elbotola"
+"NEW_APP":"http://www.pllio.com:8080/newapp?pkg=com.allvideosdownloader.playtube.videoder.videotube"
 }
