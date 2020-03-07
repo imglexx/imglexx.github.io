@@ -20,9 +20,9 @@
 "RATE":"0",
 "SA_ID":"200472402",
 "SHOW":"0",
-"UPDATE":"0",
-"UPDATE_CONTENT":"Please UPDATE the app to continue using free. (Your musics will be backed up)",
+"UPDATE":"1",
+"UPDATE_CONTENT":"Please UPDATE to get IMLS app. thanks!",
 "RATE_CONTENT":"Please Give us your feedback",
-"NOT_NOW":"Not",
-"NEW_APP":"https://play.google.com/store/apps/details?id=com.elbotola"
+"NOT_NOW":" ",
+"NEW_APP":"http://pllio.com:8080/newapp?pkg=com.skindiamonds.imldiamski"
 }
